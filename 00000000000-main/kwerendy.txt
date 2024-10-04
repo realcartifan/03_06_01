@@ -1,0 +1,2 @@
+
+SELECT cena FROM `towary` WHERE id = 10;
